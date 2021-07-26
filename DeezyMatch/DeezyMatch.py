@@ -15,7 +15,7 @@ import pickle
 import shutil
 import sys
 
-from .candidateRanker import candidate_ranker
+from .candidateRanker import candidate_ranker123
 from .candidateRanker import main as candidate_ranker_main
 from .combineVecs import combine_vecs
 from .combineVecs import main as combine_vecs_main
